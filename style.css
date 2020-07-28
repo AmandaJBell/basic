@@ -9,6 +9,7 @@ main {
   margin: 3rem auto;
   max-with: 90vw;
   width: 50ch;
+  background-color: yellow;
 }
 h1 {
   color: #333;
